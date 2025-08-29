@@ -10,4 +10,4 @@ Detailed Description:
 - Aligned with `ros2cli` development, this project also targets the implementation of improved documentation on how to create an issue report with a new issue template.
 
 Reference Pull Requests: [Add Default Github Issue Templates](https://github.com/ros2/.github/pull/3)
-,[Add: Get Clients, Servers Info](https://github.com/ros2/rmw/pull/371)
+, [Add: Get Clients, Servers Info](https://github.com/ros2/rmw/pull/371)

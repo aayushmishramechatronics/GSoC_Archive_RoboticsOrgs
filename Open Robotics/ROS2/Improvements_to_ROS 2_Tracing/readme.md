@@ -1,8 +1,8 @@
-Prerequisites: ROS2 Experience, Some Tracing/LTTng Tracer Experience, Linux, Git
-Programming Skills: C++, Python
-Difficulty Level: Medium to Hard
-Expected Size: 175 Hours to 350 Hours
-Expected Outcome: A solution to allow enabling the ROS2 tracepoints after an application has already been launched.
+- Prerequisites: ROS2 Experience, Some Tracing/LTTng Tracer Experience, Linux, Git
+- Programming Skills: C++, Python
+- Difficulty Level: Medium to Hard
+- Expected Size: 175 Hours to 350 Hours
+- Expected Outcome: A solution to allow enabling the ROS2 tracepoints after an application has already been launched.
 
 Detailed Description: 
 - [Software Tracing](https://lttng.org/docs/v2.13/#doc-what-is-tracing) is a method of collecting low-level runtime data to understand a system's execution. [`ros2_tracing`](https://github.com/ros2/ros2_tracing) is a collection of tracing instrumentation for ROS2 and tools to configure tracing for ROS 2 applications. 

@@ -30,7 +30,7 @@ Bar:
 Foo[] foos
 ```
 
-- This goal shall be archived by the usage of `castxml , Python and jinja`. [Castxml]() is a tool, that converts C++ headers to an xml abstract syntax tree representation, without the hassle of parsing C/C++ code. 
+- This goal shall be archived by the usage of `castxml , Python and jinja`. [Castxml](https://github.com/CastXML/CastXML) is a tool, that converts C++ headers to an xml abstract syntax tree representation, without the hassle of parsing C/C++ code. 
 - Therefore castxml enables simple Python scripts to perform C++ introspection. Jinja is template code generation library, that can be used from Python. Combining castxml with jinja therefore allows us to parse arbitrary C++ structures, introspect them, and generate matching ROS message. 
 - It also allows for generation of serialization code from the structure to the ROS message and back. Stretch Goal: Opaque Type Support
 

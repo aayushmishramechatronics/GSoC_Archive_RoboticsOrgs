@@ -1,9 +1,8 @@
-Prerequisites: Basic Knowledge of the `rclcpp`. `No need for specialized hardware`.
-Programming Skills: Familiarity with C++, YAML, Python and CMake.
-Difficulty Level: Medium
-Potential Mentors: Janosch Machowinski
-Expected Size: 175 hours
-Expected Outcome: Ability to Use Structured Parameters in `rclcpp`
+- Prerequisites: Basic Knowledge of the `rclcpp`. `No need for specialized hardware`.
+- Programming Skills: Familiarity with C++, YAML, Python and CMake.
+- Difficulty Level: Medium
+- Expected Size: 175 hours
+- Expected Outcome: Ability to Use Structured Parameters in `rclcpp`
 
 Detailed Description: 
 - Currently the ROS2 Parameter Interface only Supports ‘basic’ Datatypes, or Arrays of Basic Datatypes. 
